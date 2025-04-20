@@ -1,0 +1,13 @@
+# Models
+models/
+
+# Datasets
+cats_and_dogs*/
+aclImdb*
+glove*6B*
+jena*
+Kaggle*
+
+# IDE and tools
+.ipynb_checkpoints
+.vscode
